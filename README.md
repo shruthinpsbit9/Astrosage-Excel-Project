@@ -24,4 +24,4 @@ Developed an interactive Excel dashboard analyzing 28K+ users and 149 gurus to u
 - 📄 Project Report: Astrosage_Analysis_Report.pdf  
 
 ## 📸 Dashboard Preview
-![Dashboard](Astrosage_Dashboard.png)
+![Dashboard](Astrosage Dashboard.png)
