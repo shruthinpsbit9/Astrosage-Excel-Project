@@ -1,4 +1,4 @@
-# Astrosage Performance Analytics (Excel)
+# Astrosage Performance Analysis (Excel)
 
 ##  Overview
 Developed an interactive Excel dashboard analyzing 28K+ users and 149 gurus to uncover service performance trends and user behavior patterns.
