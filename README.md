@@ -20,8 +20,9 @@ Developed an interactive Excel dashboard analyzing 28K+ users and 149 gurus to u
 - Enhance service quality and user experience  
 
 ##  Project Files
--  Excel Dashboard: Astrosage_Dashboard.xlsx  
--  Project Report: Astrosage_Analysis_Report.pdf  
+-  Excel Dashboard & Dataset: AstroSage Dashboard and Analysis.xlsx
+-  Full Documentation: Analysis (full documentation).docx
+-  Presentation: AstroSage Performance Analytics Presentation.pdf  
 
 ##  Dashboard Preview
 ![Dashboard](AstroSage_Dashboard.png)
